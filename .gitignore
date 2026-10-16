@@ -1,0 +1,12 @@
+# Foldery budowania MCUXpresso / Eclipse
+Debug/
+Release/
+Binaries/
+Archives/
+
+# Pliki systemowe Maca
+.DS_Store
+
+# Konfiguracja środowiska
+.settings/
+*.launch
